@@ -1,0 +1,1 @@
+correção do bug em que os o valor dos usuários acabava indo diferente do escolhido nas apostas
