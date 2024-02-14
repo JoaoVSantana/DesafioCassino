@@ -1,0 +1,1 @@
+melhoria e modificação de algumas funções de pagamento e integração com API que nos conecta com esses sistemas (eu acho)
