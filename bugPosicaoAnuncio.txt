@@ -1,0 +1,1 @@
+bug consertado onde as posicoes dos anuncios nem sempre respeitavam o lufar onde deveriam estar
